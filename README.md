@@ -12,7 +12,7 @@ Thanks for visiting and I'd love to connect on [LinkedIn](https://www.linkedin.c
 
 ## GitHub Stats
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nTony46&theme=github_dark&show_icons=true"/>
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nTony46&layout=compact&theme=github_dark&hide=c%23"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nTony46&layout=compact&theme=github_dark&hide=c%23"/>
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">

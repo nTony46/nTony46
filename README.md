@@ -6,7 +6,7 @@
 public class Tony {
     String   name      = "Tony Nguyen";
     String   role      = "SWE @ Uber · Risk Knowledge Platform";
-    String   education = "B.S. Computer Science · UC Berkeley";
+    String   education = "Computer Science · UC Berkeley";
     String   location  = "SF Bay Area";
     String[] learning  = {"Distributed Systems", "Agentic Engineering"};
 }

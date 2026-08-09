@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=440&lines=Hi+-+I'm+Tony;SWE+%40+Uber;SF+Bay+Area" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=10000&pause=1000&color=3FB950&center=true&vCenter=true&width=440&lines=Hi+-+I'm+Tony" />
 </p>
 
 ```java

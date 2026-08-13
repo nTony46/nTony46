@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=10000&pause=1000&color=3FB950&center=true&vCenter=true&width=440&lines=Hi+-+I'm+Tony" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&fontSize=24&fontColor=3FB950&text=Hi%20-%20I%27m%20Tony" alt="Hi - I'm Tony" />
 </p>
 
 ```java

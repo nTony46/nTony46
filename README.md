@@ -5,10 +5,9 @@
 ```java
 public class Tony {
     String   name      = "Tony Nguyen";
-    String   role      = "SWE @ Uber · Risk Knowledge Platform";
     String   education = "Computer Science · UC Berkeley";
     String   location  = "SF Bay Area";
-    String[] learning  = {"Distributed Systems", "Agentic Engineering"};
+    String[] learning  = {"Distributed Systems", "Backend Engineering", "Agentic Engineering"};
 }
 ```
 
